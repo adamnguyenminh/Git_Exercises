@@ -1,2 +1,1 @@
-# Huong dan Git co ba
-asdf
+# Huong dan Git co ban cho merge
