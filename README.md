@@ -1,5 +1,4 @@
 
 # Huong dan Git co ban cho merge
 # NEVER GIVE UP
-# THEN YOU WILL BE 
-
+# THEN YOU WILL BE SUCCEED 
